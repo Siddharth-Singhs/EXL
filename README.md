@@ -11,6 +11,7 @@ The dataset can found in Dataset.xlsx file which has more than 10k+ genuine clai
 ## Data Visualization
 
 All the data visualization done for the project can found in the file **Final EXL infographic.ipynb** and certain important visualization done can be found in the Infographic.png
+![alt text](https://github.com/Siddharth-Singhs/EXL/blob/master/Infographic.png)
 
 ## Model
 
